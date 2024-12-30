@@ -1,0 +1,14 @@
+.img{
+    height:100px;
+    width:100px;
+    margin:0;
+}
+
+.list-item{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    margin:10px;
+}
+    
+

@@ -1,0 +1,21 @@
+.li-item{
+    list-style-type:none;
+    color:white;
+    margin:0;
+}
+
+.btn{
+    border:none;
+    outline:none;
+    background-color:transparent;
+    cursor:pointer;
+    color:white;
+    margin:5px;
+    font-family:"Roboto";
+    font-size:24px;
+}
+
+.active-btn{
+    color:#fec653;
+    border-bottom: 2px solid #fec653;
+}
